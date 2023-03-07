@@ -1,0 +1,11 @@
+.nav{
+  background-color: purple;
+  color: #fff;
+  padding: 20px;
+}
+span{
+  margin: 0 15px;
+}
+.active{
+  text-decoration: underline;
+}
